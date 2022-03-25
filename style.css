@@ -41,12 +41,13 @@ header > p{
 nav{
     background-color: #288E55;
     padding: 30px 0px 15px 30px;
+    text-align: center;
 }
 
 nav > a{
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-right: 0px;
+    margin: auto;
     color: #84E1AD;
     border-radius: 10px;
     padding: 10px;
