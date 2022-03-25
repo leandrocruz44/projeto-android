@@ -44,10 +44,14 @@ nav{
     text-align: center;
 }
 
-nav > a{
+nav > p{
+    display: inline;
+    margin: auto;
+}
+
+nav > p > a{
     text-decoration: none;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: auto;
     color: #84E1AD;
     border-radius: 10px;
     padding: 10px;
